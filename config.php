@@ -8,7 +8,7 @@ declare(strict_types=1);
  */
 $dbHost = 'mysql-juancxo.alwaysdata.net';
 $dbName = 'juancxo_enviosgit';
-$dbUser = 'juaxho';
+$dbUser = 'juacxo';
 $dbPass = 'juancho1422';
 
 try {
