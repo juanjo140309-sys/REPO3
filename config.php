@@ -6,7 +6,7 @@ declare(strict_types=1);
  * IMPORTANTE: reemplaza MYSQL_HOST_AQUI por el host MySQL completo que aparece
  * en el panel de tu hosting (por ejemplo, mysql-tuusuario.alwaysdata.net).
  */
-$dbHost = 'MYSQL_HOST_AQUI';
+$dbHost = 'mysql-juancxo.alwaysdata.net';
 $dbName = 'juancxo_enviosgit';
 $dbUser = 'juaxho';
 $dbPass = 'juancho1422';
